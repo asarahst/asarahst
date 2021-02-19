@@ -1,16 +1,25 @@
-### Hi there 👋
+Olá, pessoal ! :wave:
 
-<!--
-**asarahst/asarahst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sarah, sou estudante de Engenharia de Software e aspirante a *desenvolvedora Frontend*.
 
-Here are some ideas to get you started:
+------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:computer: ​Conhecimentos: HTML5, CSS3.
+
+
+:wrench: ​Ferramentas: Visual Studio Code, Adobe XD, Git e Github.
+
+
+:pencil2: ​Estudando atualmente: JavaScript, Banco de Dados, POO.
+
+
+:dart: ​Pretendo aprender: JQuery, React, etc...
+
+
+:speech_balloon: ​Onde me encontrar: 
+
+```markdown
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahsantossilva/)](https://www.linkedin.com/in/sarahsantossilva/)
+
+```
