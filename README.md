@@ -19,7 +19,5 @@ Meu nome é Sarah, sou estudante de Engenharia de Software e aspirante a *desenv
 
 :speech_balloon: ​Onde me encontrar: 
 
-```markdown
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahsantossilva/)](https://www.linkedin.com/in/sarahsantossilva/)
 
-```
