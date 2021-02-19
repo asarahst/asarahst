@@ -14,7 +14,7 @@ Meu nome é Sarah, sou estudante de Engenharia de Software e aspirante a *desenv
 :pencil2: ​Estudando atualmente: JavaScript, Banco de Dados, POO.
 
 
-:dart: ​Pretendo aprender: JQuery, React, etc...
+:dart: ​Pretendo aprender: JQuery, React, e por ai vai.
 
 
 :speech_balloon: ​Onde me encontrar: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sarahsantossilva/)](https://www.linkedin.com/in/sarahsantossilva/)
