@@ -1,6 +1,6 @@
 Olá, pessoal ! :wave:
 
-Meu nome é Sarah, estou no 2º semestre no curso Bacharel de Engenharia de Software e aspirante a *Desenvolvedora Front End*.
+Meu nome é Sarah, estou no 2º semestre do curso Bacharel de Engenharia de Software e aspirante a *Desenvolvedora Front End*.
 
 ------
 
