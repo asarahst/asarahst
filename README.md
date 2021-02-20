@@ -1,6 +1,6 @@
 Olá, pessoal ! :wave:
 
-Meu nome é Sarah, sou estudante de Engenharia de Software e aspirante a *desenvolvedora Frontend*.
+Meu nome é Sarah, sou estudante de Engenharia de Software e aspirante a *desenvolvedora Front End*.
 
 ------
 
