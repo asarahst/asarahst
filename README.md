@@ -5,7 +5,7 @@ Meu nome é Sarah, estou no 2º semestre do curso de Bacharel em Engenharia de S
 ------
 
 
-:computer: ​Conhecimentos: HTML5, CSS3.
+:computer: ​Conhecimentos: HTML5, CSS3, Bootstrap.
 
 
 :wrench: ​Ferramentas: Visual Studio Code, Adobe XD, Git e Github.
