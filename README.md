@@ -5,13 +5,13 @@ Meu nome é Sarah, estou no 2º semestre do curso de Bacharel em Engenharia de S
 ------
 
 
-:computer: ​Conhecimentos: HTML5, CSS3, Bootstrap.
+:computer: ​Conhecimentos: HTML5, CSS3, Sass, Bootstrap.
 
 
 :wrench: ​Ferramentas: Visual Studio Code, Figma, Git e Github.
 
 
-:pencil2: ​Estudando atualmente: UX/UI, JavaScript, Sass.
+:pencil2: ​Estudando atualmente: UX/UI, JavaScript.
 
 
 :dart: ​Pretendo aprender: React, e por ai vai.
