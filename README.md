@@ -11,7 +11,7 @@ Meu nome é Sarah, estou no 2º semestre do curso Bacharelado em Engenharia de S
 :wrench: ​Ferramentas: Visual Studio Code, Figma, Git e Github.
 
 
-:pencil2: ​Estudando atualmente: UX/UI, JavaScript.
+:pencil2: ​Estudando atualmente: PHP, JavaScript, UX/UI.
 
 
 :dart: ​Pretendo aprender: React, e por ai vai.
