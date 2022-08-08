@@ -5,7 +5,7 @@ Meu nome é Sarah, sou UX/UI Designer e moro em São Paulo Capital .
 ------
 
 
-:computer: ​Conhecimentos: HTML5, CSS3, Sass, Javascript, Tailwind, Bootstrap.
+:computer: ​Conhecimentos: HTML5, CSS3, Sass, Javascript,JQuery, Angular, Tailwind, Bootstrap, Ionic.
 
 
 :wrench: ​Ferramentas: Visual Studio Code, Figma, Git e Github.
