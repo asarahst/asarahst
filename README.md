@@ -1,6 +1,6 @@
 Olá, pessoal ! :wave:
 
-Meu nome é Sarah, sou UX/UI Designer e moro em São Paulo Capital .
+Meu nome é Sarah, sou UX/UI Designer e moro em São Paulo.
 
 ------
 
